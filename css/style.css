@@ -16,7 +16,7 @@ body {
 }
 
 #card, #card-front, #card-inside {
-  height: 580px;
+  height: 680px;
 }
 
 .wrap {
@@ -203,7 +203,7 @@ font-family: 'Lobster', cursive;
 
 .cake_and_velas {
   position: absolute;
-  bottom: 25%;
+  bottom: 15%;
   left: 0;
   right: 0;
   overflow: hidden;
@@ -379,7 +379,7 @@ font-family: 'Lobster', cursive;
 
 .polaroid {
   width: 240x;
-  height: 220px;
+  height: 450px;
   position: absolute;
   float: left;
   background: #1e1c18;
